@@ -48,10 +48,11 @@ El laboratorio utiliza un dataset con información de 5 ciudades principales de 
 laboratorio-2/
 │
 ├── README.md                           # Este archivo
-├── INSTRUCTIVO_INSTALACION.md          # Guía de instalación
-├── DOCUMENTO_EJECUTIVO.md              # Resumen ejecutivo
+├── instructivo_instalacion.md          # Guía de instalación
+├── documento_ejecutivo.md              # Resumen ejecutivo
 ├── laboratorio_numpy_pandas.ipynb      # Notebook principal
-└── ciudades_arg.csv                    # Archivo generado por el análisis
+└── ciudades_argentina_analisis.csv     # Dataset completo con análisis de 5 ciudades argentinas
+└── ciudades_antiguas_filtradas.csv     # Dataset solo ciudades fundadas antes de 1600 (3 ciudades)
 ```
 
 ## Resultados Principales
